@@ -23,7 +23,7 @@ namespace TestWpfProject
 
         private void ShowMessage_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Hello Git");
+            MessageBox.Show("Hello Git!");
         }
     }
     
